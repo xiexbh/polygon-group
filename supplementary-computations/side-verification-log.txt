@@ -1,0 +1,33 @@
+Section 6 exact verification; 14.0.0 for Microsoft Windows (64-bit) (December 13, 2023)
+Real parameter domain: 3/5 <= c < 1; t,h real.
+PASS  B supporting equation
+PASS  B norm is affine in c
+PASS  B norm at c=0 is a sum of squares
+PASS  B positive chart denominator
+PASS  B positive chart denominator
+PASS  B positive chart denominator
+PASS  B positive chart denominator
+PASS  B positive chart denominator
+PASS  B positive chart denominator
+PASS  B local inequalities independent of c
+PASS  B redundant local side 1
+PASS  B redundant local side 2
+PASS  F supporting equation
+PASS  F norm is affine in c
+PASS  F norm at c=0 is a sum of squares
+PASS  F positive chart denominator
+PASS  F positive chart denominator
+PASS  F positive chart denominator
+PASS  F positive chart denominator
+PASS  F positive chart denominator
+PASS  F positive chart denominator
+PASS  F local inequalities independent of c
+PASS  F redundant local side 1
+PASS  F redundant local side 2
+PASS  positive denominator / F separation
+PASS  positive denominator / F separation
+PASS  F1- lies strictly beyond B1-
+PASS  F-1- lies strictly beyond B0+
+PASS  positive remote F witness at x1
+PASS  positive opposite remote F witness at x1
+ALL SIDE CHECKS PASSED (30). Elapsed seconds: 23

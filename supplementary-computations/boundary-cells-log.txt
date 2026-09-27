@@ -1,0 +1,19 @@
+Section 6 exact verification; 14.0.0 for Microsoft Windows (64-bit) (December 13, 2023)
+Real parameter domain: 3/5 <= c < 1; t,h real.
+PASS  positive denominator / boundary cells
+PASS  positive denominator / boundary cells
+PASS  positive denominator / boundary cells
+PASS  positive denominator / boundary cells
+PASS  BB no extra boundary inside triangle
+PASS  BF no extra boundary inside triangle
+PASS  positive denominator / lower dimensional cells
+PASS  mixed B pair lies on an adjacent mirror
+PASS  positive denominator / lower dimensional cells
+PASS  opposite F pair only at polygon vertex
+PASS  positive denominator / lower dimensional cells
+PASS  positive denominator / lower dimensional cells
+PASS  adjacent opposite F pair is empty
+PASS  B0 F0- lies on adjacent mirror
+PASS  F0 B0- lies on a listed boundary
+PASS  F0 B1+ lies on a listed boundary
+ALL EXTRA CHECKS PASSED (16).

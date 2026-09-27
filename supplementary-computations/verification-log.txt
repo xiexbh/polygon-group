@@ -1,0 +1,135 @@
+Section 6 exact verification; 14.0.0 for Microsoft Windows (64-bit) (December 13, 2023)
+Real parameter domain: 3/5 <= c < 1; t,h real.
+PASS  cos(2 Pi/7)>3/5
+PASS  B normalization
+PASS  F normalization
+PASS  I0 preserves the Hermitian form
+PASS  I0 has order three
+PASS  adjacent reflections commute
+PASS  conjugation reverses the reflection
+PASS  J reverses the mirror index
+PASS  sigma0 sends I0 to inverse I1
+PASS  sigma0 sends I1 to inverse I0
+PASS  BB scalar inequalities
+PASS  BF radical inequality: positive factor
+PASS  BF radical inequality: squared comparison
+PASS  rational upper bound for Q
+PASS  rational lower bound for Q
+PASS  FF++ gap
+PASS  FF+- gap
+PASS  adjacent FF weighted coefficient norm
+PASS  adjacent FF strict separation
+PASS  FF++ normal scalar product
+PASS  FF+- normal scalar product
+PASS  BB+- normal scalar product
+PASS  BF normal scalar product
+PASS  nonzero determinant / B0 / 2
+PASS  negative witness / B0 / 2
+PASS  nonzero determinant / B0 / 3
+PASS  negative witness / B0 / 3
+PASS  nonzero determinant / B0 / 4
+PASS  negative witness / B0 / 4
+PASS  nonzero determinant / B0 / 5
+PASS  negative witness / B0 / 5
+PASS  nonzero determinant / B0 / 6
+PASS  negative witness / B0 / 6
+PASS  nonzero determinant / B0 / 7
+PASS  negative witness / B0 / 7
+PASS  nonzero determinant / B0 / 8
+PASS  negative witness / B0 / 8
+PASS  nonzero determinant / B0 / 9
+PASS  negative witness / B0 / 9
+PASS  nonzero determinant / F0 / 1
+PASS  negative witness / F0 / 1
+PASS  nonzero determinant / F0 / 2
+PASS  negative witness / F0 / 2
+PASS  nonzero determinant / F0 / 3
+PASS  negative witness / F0 / 3
+PASS  nonzero determinant / F0 / 4
+PASS  negative witness / F0 / 4
+PASS  nonzero determinant / F0 / 5
+PASS  negative witness / F0 / 5
+PASS  nonzero determinant / F0 / 6
+PASS  negative witness / F0 / 6
+PASS  nonzero determinant / F0 / 7
+PASS  negative witness / F0 / 7
+PASS  slice u=sqrt(c)
+PASS  second real slice root
+PASS  slice B1+ circle
+PASS  slice B1- circle
+PASS  coincident slice equations / 1
+PASS  coincident slice equations / 2
+PASS  coincident slice equations / 3
+PASS  coincident slice equations / 4
+PASS  orthogonal circles
+PASS  BB triangle norm formula
+PASS  positive denominator / BB triangle
+PASS  positive denominator / BB triangle
+PASS  positive denominator / BB triangle
+PASS  positive denominator / BB triangle
+PASS  positive denominator / BB triangle
+PASS  BB triangle closed-ball region equivalence
+PASS  BF triangle norm formula
+PASS  BF triangle closed-ball region equivalence
+PASS  BB cutting line
+PASS  BF first cutting line
+PASS  BF diagonal cutting line
+START no-ridge test / B0+ B1-
+PASS  nontrivial restriction / B0+ B1-
+PASS  nontrivial restriction / B0+ B1-
+PASS  nontrivial restriction / B0+ B1-
+PASS  nontrivial restriction / B0+ B1-
+PASS  nontrivial restriction / B0+ B1-
+PASS  nontrivial restriction / B0+ B1-
+PASS  nontrivial restriction / B0+ B1-
+PASS  nontrivial restriction / B0+ B1-
+PASS  closed-ball strict test / B0+ B1-
+START no-ridge test / B0+ F0-
+PASS  nontrivial restriction / B0+ F0-
+PASS  nontrivial restriction / B0+ F0-
+PASS  nontrivial restriction / B0+ F0-
+PASS  nontrivial restriction / B0+ F0-
+PASS  nontrivial restriction / B0+ F0-
+PASS  nontrivial restriction / B0+ F0-
+PASS  nontrivial restriction / B0+ F0-
+PASS  nontrivial restriction / B0+ F0-
+PASS  closed-ball strict test / B0+ F0-
+START no-ridge test / F0+ B0-
+PASS  nontrivial restriction / F0+ B0-
+PASS  nontrivial restriction / F0+ B0-
+PASS  nontrivial restriction / F0+ B0-
+PASS  nontrivial restriction / F0+ B0-
+PASS  nontrivial restriction / F0+ B0-
+PASS  nontrivial restriction / F0+ B0-
+PASS  closed-ball strict test / F0+ B0-
+START no-ridge test / F0+ B1+
+PASS  nontrivial restriction / F0+ B1+
+PASS  nontrivial restriction / F0+ B1+
+PASS  nontrivial restriction / F0+ B1+
+PASS  nontrivial restriction / F0+ B1+
+PASS  nontrivial restriction / F0+ B1+
+PASS  nontrivial restriction / F0+ B1+
+PASS  closed-ball strict test / F0+ B1+
+START no-ridge test / F0+ F0-
+PASS  positive denominator / F0+ F0-
+PASS  nontrivial restriction / F0+ F0-
+PASS  nontrivial restriction / F0+ F0-
+PASS  nontrivial restriction / F0+ F0-
+PASS  nontrivial restriction / F0+ F0-
+PASS  nontrivial restriction / F0+ F0-
+PASS  nontrivial restriction / F0+ F0-
+PASS  closed-ball strict test / F0+ F0-
+START no-ridge test / F0+ F1-
+PASS  positive denominator / F0+ F1-
+PASS  positive denominator / F0+ F1-
+PASS  nontrivial restriction / F0+ F1-
+PASS  nontrivial restriction / F0+ F1-
+PASS  nontrivial restriction / F0+ F1-
+PASS  nontrivial restriction / F0+ F1-
+PASS  nontrivial restriction / F0+ F1-
+PASS  nontrivial restriction / F0+ F1-
+PASS  closed-ball strict test / F0+ F1-
+PASS  mixed-pair product factor
+PASS  mixed-pair strict B sides force t>0,h<0
+PASS  mixed-pair 1+th is positive
+ALL CHECKS PASSED (126). Elapsed seconds: 54

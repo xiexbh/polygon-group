@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-27",
+  "runtime": "Mathematica 14.0, Windows 64-bit",
+  "domain": "3/5 <= c < 1; real chart variables",
+  "exact_checks": {
+    "verification-log.txt": 126,
+    "side-verification-log.txt": 30,
+    "boundary-cells-log.txt": 16
+  },
+  "total_checks": 172,
+  "meaning": "Exact algebraic verification of stated identities and quantified inequalities; geometric and topological arguments are in the manuscript, not certified by these scripts."
+}
